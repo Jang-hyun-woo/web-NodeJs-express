@@ -1,0 +1,15 @@
+{
+  "name": "web-nodepj1",
+  "version": "1.0.0",
+  "description": "pj1 gogo",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
